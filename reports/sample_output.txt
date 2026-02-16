@@ -1,0 +1,8 @@
+=== Energy Usage Report ===
+
+Average Usage Kwh: 401.25
+Maximum Usage Kwh: 510.00
+Minimum Usage Kwh: 280.00
+Total Records: 8
+
+==========================
